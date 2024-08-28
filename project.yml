@@ -1,0 +1,7 @@
+id: '7a09dd2d-77aa-4d7e-a631-08dcbc7b88fb'
+version: 'v1.4'
+name: 'Harmen_testing_git'
+description: 'Test project with git access'
+configuration:
+  id: 'biGENIUS.Implementation.Generator.Datavault.Mssql'
+  version: '1.6.1'
